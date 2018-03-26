@@ -1,4 +1,6 @@
-# my-first-app
+# hello-probot-app
+
+A Probot app that comments "Hello World!" on a opened issue.
 
 > a GitHub App built with [probot](https://github.com/probot/probot) that 
 
